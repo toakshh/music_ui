@@ -8,3 +8,4 @@ background-gradient of acertinity ui used in cards section
 import course data from json file and map over them to create cards.
 declared types for course data and mapped over it.
 sticky scroll imported and applied
+install mini-svg-data-uri package
