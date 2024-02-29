@@ -1,5 +1,6 @@
 import ChooseUs from "@/components/ChooseUs";
 import FeaturedCourses from "@/components/FeaturedCourses";
+import Footer from "@/components/Footer";
 import Hero from "@/components/Hero";
 import Instructors from "@/components/Instructors";
 import Testimonials from "@/components/Testimonials";
@@ -14,6 +15,7 @@ export default function Home() {
       <Testimonials />
       <Webinars />
       <Instructors />
+      <Footer />
     </main>
   );
 }
