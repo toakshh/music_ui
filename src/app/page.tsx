@@ -2,6 +2,7 @@ import ChooseUs from "@/components/ChooseUs";
 import FeaturedCourses from "@/components/FeaturedCourses";
 import Hero from "@/components/Hero";
 import Testimonials from "@/components/Testimonials";
+import Webinars from "@/components/Webinars";
 
 export default function Home() {
   return (
@@ -10,6 +11,7 @@ export default function Home() {
       <FeaturedCourses />
       <ChooseUs />
       <Testimonials />
+      <Webinars />
     </main>
   );
 }

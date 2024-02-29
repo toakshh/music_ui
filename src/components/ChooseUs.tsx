@@ -36,7 +36,7 @@ const musicSchoolContent = [
 
 const ChooseUs = () => {
   return (
-    <div>
+    <div className="min-h-screen">
       <StickyScroll content={musicSchoolContent} />
     </div>
   );
